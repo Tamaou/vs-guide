@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.md": "02c0bb33a20991c30016998fedc45e43b4757d14c72ac3163aa46b33fe47eb92",
+        "index.js": "98d09a86bacab7fbab44e0cdaf8e04c7f24e9ad3241c7bf5ec34f74a60b2ae64",
+        "module.json": "657acd8e6b37833d2e404051df76b8d05b77465752ef6cd287611a8fb668fe60"
+    },
+    "defs": {
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_CHAT": 3,
+        "S_DESPAWN_COLLECTION": 2,
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_QUEST_BALLOON": 1,
+        "S_SPAWN_COLLECTION": 4
+    }
+}

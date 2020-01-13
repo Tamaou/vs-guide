@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "guide-vs-master",
+    "author": "teralove(managed by Tamaou)",
+    "description": "Guide for Velik's Sanctuary",
+    "options": {
+        "niceName": "Velik's Sanctuary Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/Tamaou/vs-guide/master/"]
+}
