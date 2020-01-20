@@ -1,8 +1,10 @@
 {
     "files": {
         "README.md": "02c0bb33a20991c30016998fedc45e43b4757d14c72ac3163aa46b33fe47eb92",
+        "config.json": "1ae421ef8e9233e26e5ea178e325f3387fd532b28c9edef8c84bebabdfd2d293",
         "index.js": "98d09a86bacab7fbab44e0cdaf8e04c7f24e9ad3241c7bf5ec34f74a60b2ae64",
-        "module.json": "657acd8e6b37833d2e404051df76b8d05b77465752ef6cd287611a8fb668fe60"
+        "module.json": "a8ff796eb9d7d21f364709463a34021a77da6b389c864a5674869a64464e92b6",
+        "settings_migrator.js": "f2584b08afde6c7764d7124b96b0e9759d6ea8e1be4e174624d58228809adb7c"
     },
     "defs": {
         "S_ACTION_STAGE": 9,

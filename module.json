@@ -1,10 +1,17 @@
 {
     "disableAutoUpdate": false,
-    "name": "guide-vs-master",
-    "author": "teralove(managed by Tamaou)",
+    "name": "vs-guide",
+    "author": "teralove (Updated and Maintained by Tamaou)",
     "description": "Guide for Velik's Sanctuary",
+    "version": "11/05/2019",
     "options": {
-        "niceName": "Velik's Sanctuary Guide"
+        "niceName": "VS Guide",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/Tamaou/vs-guide/master/"]
+    "servers": ["https://raw.githubusercontent.com/Tamaou/vs-guide/master/"],
+    "dependencies": {
+        "tera-game-state": "https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json"
+    }
 }
